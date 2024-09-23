@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Игнорировать папки библиотек
+/node_modules/
+/venv/
+# Игнорировать бинарные файлы
+*.exe
+*.dll
+*.so
